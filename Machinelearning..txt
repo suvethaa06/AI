@@ -1,1 +1,2 @@
 Machine learning is the subset of AI
+AI is defined as that the machines can perform tasks that typically require human intelligence.
